@@ -1,0 +1,19 @@
+# Ignore unnecessary Unity files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Ignore Visual Studio / JetBrains Rider files
+[Aa]ssets/**/*.pidb
+[Aa]ssets/**/*.sln
+[Aa]ssets/**/*.csproj
+[Aa]ssets/**/*.unityproj
+[Aa]ssets/**/*.userprefs
+
+# Ignore system files
+.DS_Store
+Thumbs.db
