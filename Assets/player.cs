@@ -6,7 +6,7 @@ using UnityEngine;
 public class FPSPlayer : MonoBehaviour
 {
 
-    int moveSpeed = 5;
+    int moveSpeed = 4;
     float lookSpeedX = 6;   //left/right mouse sensitivity
     float lookSpeedY = 3; // up/down mouse sensitivity
     int JumpForce = 300;
